@@ -1,0 +1,8 @@
+{
+  "ads_enabled": true,
+  "interstitial_every_n": 4,
+  "interstitial_min_gap_sec": 120,
+  "max_interstitials_per_session": 5,
+  "max_rewarded_per_day": 20,
+  "max_ad_clicks_per_day": 2
+}
